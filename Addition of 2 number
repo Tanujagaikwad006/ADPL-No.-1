@@ -1,0 +1,12 @@
+# ADPL-No.-1
+Write a code for addition of 2 numbers? 
+using namespace std;
+int main() 
+{
+int number1,number2,sum;
+cout<<"Enter two numbers";
+cin>>num1>>num2;
+sum=num1+num2;
+cout<<"The of sum <<num1<<num2<<endl;
+return 0;
+}
